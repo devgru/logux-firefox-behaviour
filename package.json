@@ -1,0 +1,25 @@
+{
+  "name": "mbt-graph-editor",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "d3-drag": "^1.2.1",
+    "d3-selection": "^1.1.0",
+    "d3-zoom": "^1.6.0",
+    "logux-redux": "^0.1.1",
+    "logux-server": "^0.2.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-logux": "^0.1.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.14",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
